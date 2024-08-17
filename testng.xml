@@ -2,15 +2,14 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<listeners>
-		<listener
-			class-name="testComponents.TestListeners">
+		<listener class-name="utilities.TestListeners">
 		</listener>
-		<listener
-			class-name="testComponents.RetryTransformer"></listener>
+		<listener class-name="utilities.RetryTransformer"></listener>
 	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="apiTestCases.UserInfo" />
+			<class name="apiTestCases.GetUserInfoTest"></class>
+			<class name="apiTestCases.ValidateUserInfoTest"></class>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
