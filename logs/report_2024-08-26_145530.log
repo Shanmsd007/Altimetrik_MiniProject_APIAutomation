@@ -1,0 +1,4 @@
+2024-08-26 14:55:30,451 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 14:55:32,644 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 14:55:32,645 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 14:55:32,647 INFO  [main] helpers.GetUserInfoAPI -The response code is 429

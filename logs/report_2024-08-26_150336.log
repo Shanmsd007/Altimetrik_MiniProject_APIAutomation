@@ -1,0 +1,40 @@
+2024-08-26 15:03:36,539 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:03:38,741 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:03:38,742 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:03:38,742 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:03:38,744 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 15:03:39,997 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-08-26 15:03:40,015 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:03:41,296 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:03:41,296 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:03:41,296 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:03:41,296 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 15:03:42,460 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-08-26 15:03:42,469 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:03:43,695 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:03:43,695 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:03:43,695 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:03:43,696 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 15:03:44,880 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-08-26 15:03:44,886 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:03:46,152 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:03:46,152 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:03:46,153 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:03:46,153 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 15:03:47,383 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-08-26 15:03:47,388 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:03:48,572 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:03:48,572 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:03:48,572 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:03:48,574 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 15:03:49,782 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])

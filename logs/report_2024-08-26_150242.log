@@ -1,0 +1,20 @@
+2024-08-26 15:02:43,019 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:02:45,233 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:02:45,233 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:02:45,235 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:02:45,249 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:02:46,459 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:02:46,461 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:02:46,461 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:02:46,466 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:02:47,636 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:02:47,636 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:02:47,636 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:02:47,643 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:02:48,851 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:02:48,851 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:02:48,851 INFO  [main] helpers.GetUserInfoAPI -The response code is 429
+2024-08-26 15:02:48,855 INFO  [main] helpers.GetUserInfoAPI -*****Getting the user information*****
+2024-08-26 15:02:50,029 INFO  [main] helpers.GetUserInfoAPI -*****Getting the status code*****
+2024-08-26 15:02:50,030 INFO  [main] helpers.GetUserInfoAPI -*****Validating the status code*****
+2024-08-26 15:02:50,030 INFO  [main] helpers.GetUserInfoAPI -The response code is 429

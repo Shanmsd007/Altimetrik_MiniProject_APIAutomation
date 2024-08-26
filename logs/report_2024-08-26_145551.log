@@ -1,0 +1,4 @@
+2024-08-26 14:55:51,876 INFO  [main] helpers.GetUserInfoAPI -*****Validating the user information*****
+2024-08-26 14:55:54,084 INFO  [main] helpers.GetUserInfoAPI -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
