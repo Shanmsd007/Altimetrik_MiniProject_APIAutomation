@@ -1,0 +1,20 @@
+2024-08-26 13:34:04,031 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-08-26 13:34:06,775 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-08-26 13:34:06,775 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-08-26 13:34:06,777 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 429
+2024-08-26 13:34:06,781 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-08-26 13:34:08,246 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-08-26 13:34:08,248 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-08-26 13:34:08,248 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 429
+2024-08-26 13:34:08,255 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-08-26 13:34:09,779 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-08-26 13:34:09,779 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-08-26 13:34:09,779 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 429
+2024-08-26 13:34:09,785 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-08-26 13:34:11,313 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-08-26 13:34:11,314 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-08-26 13:34:11,314 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 429
+2024-08-26 13:34:11,319 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-08-26 13:34:12,849 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-08-26 13:34:12,850 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-08-26 13:34:12,850 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 429

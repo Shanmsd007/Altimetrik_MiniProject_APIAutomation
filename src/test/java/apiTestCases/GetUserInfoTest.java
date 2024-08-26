@@ -1,11 +1,13 @@
 package apiTestCases;
 
-import helpers.GetUserInfoAPI;
-import io.restassured.response.Response;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
+
+import helpers.GetUserInfoAPI;
+import io.restassured.response.Response;
 import utilities.DataProviders;
 
 public class GetUserInfoTest {

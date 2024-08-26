@@ -7,16 +7,16 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
+      <class name="apiTestCases.GetUserInfoTest">
+        <methods>
+          <include name="getUserInfo" invocation-numbers="0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4"/>
+        </methods>
+      </class> <!-- apiTestCases.GetUserInfoTest -->
       <class name="apiTestCases.ValidateUserInfoTest">
         <methods>
           <include name="validateUserInfoTest" invocation-numbers="0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4"/>
         </methods>
       </class> <!-- apiTestCases.ValidateUserInfoTest -->
-      <class name="apiTestCases.GetUserInfoTest">
-        <methods>
-          <include name="validateUserInfoTest" invocation-numbers="0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4"/>
-        </methods>
-      </class> <!-- apiTestCases.GetUserInfoTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
