@@ -10,25 +10,23 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 200 OK
+HTTP/1.1 429 Too Many Requests
 Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:51 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
+Date: Mon, 26 Aug 2024 07:30:19 GMT
+Content-Type: application/json
+Content-Length: 33
 Connection: keep-alive
 access-control-allow-credentials: true
 access-control-allow-origin: *
 access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
 cache-control: max-age=0, private, must-revalidate
 x-rate-limit-limit: 100
-x-rate-limit-remaining: 89
-x-rate-limit-reset: 29649
-x-request-id: F-8DPwoZDcea3X4d4jAh
+x-rate-limit-remaining: 0
+x-rate-limit-reset: 59381
+x-request-id: F-82yQ2mh5z2D5Qd1lWi
 
 {
-    "count": 277407,
-    "name": "john ",
-    "age": 73
+    "error": "Request limit reached"
 }
 Request method:	GET
 Request URI:	https://api.agify.io/?name=tom%20
@@ -42,25 +40,23 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 200 OK
+HTTP/1.1 429 Too Many Requests
 Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:52 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 39
+Date: Mon, 26 Aug 2024 07:30:20 GMT
+Content-Type: application/json
+Content-Length: 33
 Connection: keep-alive
 access-control-allow-credentials: true
 access-control-allow-origin: *
 access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
 cache-control: max-age=0, private, must-revalidate
 x-rate-limit-limit: 100
-x-rate-limit-remaining: 88
-x-rate-limit-reset: 29648
-x-request-id: F-8DP1NR4OHPolkcGslC
+x-rate-limit-remaining: 0
+x-rate-limit-reset: 59380
+x-request-id: F-82yWEMvCsFTjYd1lqi
 
 {
-    "count": 135975,
-    "name": "tom ",
-    "age": 66
+    "error": "Request limit reached"
 }
 Request method:	GET
 Request URI:	https://api.agify.io/?name=jerry
@@ -74,25 +70,23 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 200 OK
+HTTP/1.1 429 Too Many Requests
 Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:53 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 39
+Date: Mon, 26 Aug 2024 07:30:22 GMT
+Content-Type: application/json
+Content-Length: 33
 Connection: keep-alive
 access-control-allow-credentials: true
 access-control-allow-origin: *
 access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
 cache-control: max-age=0, private, must-revalidate
 x-rate-limit-limit: 100
-x-rate-limit-remaining: 87
-x-rate-limit-reset: 29647
-x-request-id: F-8DP5fbLEv9dW8d4jEh
+x-rate-limit-remaining: 0
+x-rate-limit-reset: 59378
+x-request-id: F-82ybw7iUSc01kf_Suh
 
 {
-    "count": 25849,
-    "name": "jerry",
-    "age": 75
+    "error": "Request limit reached"
 }
 Request method:	GET
 Request URI:	https://api.agify.io/?name=kevin
@@ -106,25 +100,23 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 200 OK
+HTTP/1.1 429 Too Many Requests
 Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:55 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
+Date: Mon, 26 Aug 2024 07:30:23 GMT
+Content-Type: application/json
+Content-Length: 33
 Connection: keep-alive
 access-control-allow-credentials: true
 access-control-allow-origin: *
 access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
 cache-control: max-age=0, private, must-revalidate
 x-rate-limit-limit: 100
-x-rate-limit-remaining: 86
-x-rate-limit-reset: 29645
-x-request-id: F-8DP9pkn2wRLK8d4jLB
+x-rate-limit-remaining: 0
+x-rate-limit-reset: 59377
+x-request-id: F-82ygah8IkkFAwd1mTC
 
 {
-    "count": 178570,
-    "name": "kevin",
-    "age": 50
+    "error": "Request limit reached"
 }
 Request method:	GET
 Request URI:	https://api.agify.io/?name=amanda
@@ -138,183 +130,21 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-HTTP/1.1 200 OK
+HTTP/1.1 429 Too Many Requests
 Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:56 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
+Date: Mon, 26 Aug 2024 07:30:24 GMT
+Content-Type: application/json
+Content-Length: 33
 Connection: keep-alive
 access-control-allow-credentials: true
 access-control-allow-origin: *
 access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
 cache-control: max-age=0, private, must-revalidate
 x-rate-limit-limit: 100
-x-rate-limit-remaining: 85
-x-rate-limit-reset: 29644
-x-request-id: F-8DQB_bBaeqVtId4jRh
+x-rate-limit-remaining: 0
+x-rate-limit-reset: 59376
+x-request-id: F-82ylS5LKX1tHAd1mhi
 
 {
-    "count": 59483,
-    "name": "amanda",
-    "age": 46
-}
-Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=john 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:57 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
-Connection: keep-alive
-access-control-allow-credentials: true
-access-control-allow-origin: *
-access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
-cache-control: max-age=0, private, must-revalidate
-x-rate-limit-limit: 100
-x-rate-limit-remaining: 84
-x-rate-limit-reset: 29643
-x-request-id: F-8DQGq9K7u7SxAcGsxi
-
-{
-    "count": 277407,
-    "name": "john ",
-    "age": 73
-}
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:58 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 39
-Connection: keep-alive
-access-control-allow-credentials: true
-access-control-allow-origin: *
-access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
-cache-control: max-age=0, private, must-revalidate
-x-rate-limit-limit: 100
-x-rate-limit-remaining: 83
-x-rate-limit-reset: 29642
-x-request-id: F-8DQLYvZ9InryocGs_C
-
-{
-    "count": 135975,
-    "name": "tom ",
-    "age": 66
-}
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:45:59 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 39
-Connection: keep-alive
-access-control-allow-credentials: true
-access-control-allow-origin: *
-access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
-cache-control: max-age=0, private, must-revalidate
-x-rate-limit-limit: 100
-x-rate-limit-remaining: 82
-x-rate-limit-reset: 29641
-x-request-id: F-8DQPrwkRDidCId4jbh
-
-{
-    "count": 25849,
-    "name": "jerry",
-    "age": 75
-}
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:46:01 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
-Connection: keep-alive
-access-control-allow-credentials: true
-access-control-allow-origin: *
-access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
-cache-control: max-age=0, private, must-revalidate
-x-rate-limit-limit: 100
-x-rate-limit-remaining: 81
-x-rate-limit-reset: 29639
-x-request-id: F-8DQT9pqMi2efsd4jpB
-
-{
-    "count": 178570,
-    "name": "kevin",
-    "age": 50
-}
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-HTTP/1.1 200 OK
-Server: nginx/1.16.1
-Date: Sun, 25 Aug 2024 15:46:02 GMT
-Content-Type: application/json; charset=utf-8
-Content-Length: 40
-Connection: keep-alive
-access-control-allow-credentials: true
-access-control-allow-origin: *
-access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
-cache-control: max-age=0, private, must-revalidate
-x-rate-limit-limit: 100
-x-rate-limit-remaining: 80
-x-rate-limit-reset: 29638
-x-request-id: F-8DQYIdUvXwKCscGtRC
-
-{
-    "count": 59483,
-    "name": "amanda",
-    "age": 46
+    "error": "Request limit reached"
 }
