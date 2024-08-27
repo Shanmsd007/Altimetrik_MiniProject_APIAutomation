@@ -128,15 +128,5 @@
 			<artifactId>cucumber-testng</artifactId>
 			<version>7.18.1</version>
 		</dependency>
-		<dependency>
-			<groupId>bdd</groupId>
-			<artifactId>APIFramework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>com.learning</groupId>
-			<artifactId>com.cucumberlearning</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 </project>

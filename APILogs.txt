@@ -1,8 +1,8 @@
 Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
+Request URI:	https://api.agify.io/?name=john
 Proxy:			<none>
 Request params:	<none>
-Query params:	name=john 
+Query params:	name=john
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -10,11 +10,31 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:12 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 39
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 91
+x-rate-limit-reset: 65568
+x-request-id: F-9_vTDgm_L7G_MjUAwh
+
+{
+    "count": 277407,
+    "name": "john",
+    "age": 73
+}
 Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
+Request URI:	https://api.agify.io/?name=john
 Proxy:			<none>
 Request params:	<none>
-Query params:	name=john 
+Query params:	name=john
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -22,11 +42,31 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:14 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 39
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 90
+x-rate-limit-reset: 65566
+x-request-id: F-9_vXadC3H7uZEgsRbi
+
+{
+    "count": 277407,
+    "name": "john",
+    "age": 73
+}
 Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
+Request URI:	https://api.agify.io/?name=tom
 Proxy:			<none>
 Request params:	<none>
-Query params:	name=john 
+Query params:	name=tom
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -34,11 +74,31 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:15 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 38
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 89
+x-rate-limit-reset: 65565
+x-request-id: F-9_vbyQCShyMFMgsRlC
+
+{
+    "count": 135975,
+    "name": "tom",
+    "age": 66
+}
 Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
+Request URI:	https://api.agify.io/?name=tom
 Proxy:			<none>
 Request params:	<none>
-Query params:	name=john 
+Query params:	name=tom
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -46,90 +106,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:16 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 38
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 88
+x-rate-limit-reset: 65564
+x-request-id: F-9_vgL4cs367bcjUBNh
+
+{
+    "count": 135975,
+    "name": "tom",
+    "age": 66
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=jerry
 Proxy:			<none>
@@ -142,198 +138,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=john 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=john 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=john 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=john%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=john 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=tom%20
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=tom 
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:17 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 39
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 87
+x-rate-limit-reset: 65563
+x-request-id: F-9_vkgG22fRk5ogsR1C
+
+{
+    "count": 25849,
+    "name": "jerry",
+    "age": 75
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=jerry
 Proxy:			<none>
@@ -346,42 +170,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=jerry
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=jerry
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:18 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 39
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 86
+x-rate-limit-reset: 65562
+x-request-id: F-9_vo1m9y-Fwx0gsSDC
+
+{
+    "count": 25849,
+    "name": "jerry",
+    "age": 75
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=kevin
 Proxy:			<none>
@@ -394,6 +202,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:20 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 85
+x-rate-limit-reset: 65561
+x-request-id: F-9_vtVYEGlrUlUjUB-h
+
+{
+    "count": 178570,
+    "name": "kevin",
+    "age": 50
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=kevin
 Proxy:			<none>
@@ -406,30 +234,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=kevin
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=kevin
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:21 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 84
+x-rate-limit-reset: 65559
+x-request-id: F-9_vy3vt349RCcjUCDB
+
+{
+    "count": 178570,
+    "name": "kevin",
+    "age": 50
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=amanda
 Proxy:			<none>
@@ -442,6 +266,26 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:22 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 83
+x-rate-limit-reset: 65558
+x-request-id: F-9_v3TKuPYo4wwgsSmi
+
+{
+    "count": 59483,
+    "name": "amanda",
+    "age": 46
+}
 Request method:	GET
 Request URI:	https://api.agify.io/?name=amanda
 Proxy:			<none>
@@ -454,27 +298,23 @@ Headers:		Accept=*/*
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
-Request method:	GET
-Request URI:	https://api.agify.io/?name=amanda
-Proxy:			<none>
-Request params:	<none>
-Query params:	name=amanda
-Form params:	<none>
-Path params:	<none>
-Headers:		Accept=*/*
-				Content-Type=application/json
-Cookies:		<none>
-Multiparts:		<none>
-Body:			<none>
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Tue, 27 Aug 2024 05:47:23 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 40
+Connection: keep-alive
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 100
+x-rate-limit-remaining: 82
+x-rate-limit-reset: 65557
+x-request-id: F-9_v7aB0Dv8kYMjUCOB
+
+{
+    "count": 59483,
+    "name": "amanda",
+    "age": 46
+}

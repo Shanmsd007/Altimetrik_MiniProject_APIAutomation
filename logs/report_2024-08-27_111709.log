@@ -1,0 +1,35 @@
+2024-08-27 11:17:09,986 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the user information*****
+2024-08-27 11:17:12,198 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the status code*****
+2024-08-27 11:17:12,199 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the status code*****
+2024-08-27 11:17:12,200 INFO  [main] stepDefinitionFiles.MyStepDefinition -The response code is 200
+2024-08-27 11:17:12,202 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user information*****
+2024-08-27 11:17:13,368 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Name*****
+2024-08-27 11:17:13,368 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Age*****
+2024-08-27 11:17:13,376 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the user information*****
+2024-08-27 11:17:14,499 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the status code*****
+2024-08-27 11:17:14,500 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the status code*****
+2024-08-27 11:17:14,501 INFO  [main] stepDefinitionFiles.MyStepDefinition -The response code is 200
+2024-08-27 11:17:14,501 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user information*****
+2024-08-27 11:17:15,687 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Name*****
+2024-08-27 11:17:15,687 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Age*****
+2024-08-27 11:17:15,690 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the user information*****
+2024-08-27 11:17:16,847 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the status code*****
+2024-08-27 11:17:16,847 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the status code*****
+2024-08-27 11:17:16,847 INFO  [main] stepDefinitionFiles.MyStepDefinition -The response code is 200
+2024-08-27 11:17:16,848 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user information*****
+2024-08-27 11:17:18,014 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Name*****
+2024-08-27 11:17:18,014 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Age*****
+2024-08-27 11:17:18,018 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the user information*****
+2024-08-27 11:17:19,566 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the status code*****
+2024-08-27 11:17:19,567 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the status code*****
+2024-08-27 11:17:19,567 INFO  [main] stepDefinitionFiles.MyStepDefinition -The response code is 200
+2024-08-27 11:17:19,568 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user information*****
+2024-08-27 11:17:20,693 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Name*****
+2024-08-27 11:17:20,693 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Age*****
+2024-08-27 11:17:20,697 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the user information*****
+2024-08-27 11:17:21,885 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Getting the status code*****
+2024-08-27 11:17:21,885 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the status code*****
+2024-08-27 11:17:21,886 INFO  [main] stepDefinitionFiles.MyStepDefinition -The response code is 200
+2024-08-27 11:17:21,886 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user information*****
+2024-08-27 11:17:22,987 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Name*****
+2024-08-27 11:17:22,987 INFO  [main] stepDefinitionFiles.MyStepDefinition -*****Validating the user's Age*****
