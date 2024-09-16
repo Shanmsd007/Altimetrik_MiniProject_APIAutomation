@@ -1,0 +1,35 @@
+2024-09-16 13:07:31,282 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:07:33,760 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:07:33,760 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:07:33,762 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:07:33,768 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:07:35,067 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:07:35,071 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:07:35,071 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:07:35,074 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:07:36,400 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:07:36,401 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:07:36,401 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:07:36,404 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:07:37,634 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:07:37,635 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:07:37,635 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:07:37,638 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:07:38,931 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:07:38,932 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:07:38,932 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:07:39,165 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-16 13:07:40,598 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-16 13:07:40,599 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****
+2024-09-16 13:07:40,600 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-16 13:07:41,826 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-16 13:07:41,826 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****
+2024-09-16 13:07:41,829 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-16 13:07:43,231 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-16 13:07:43,231 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****
+2024-09-16 13:07:43,232 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-16 13:07:44,482 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-16 13:07:44,482 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****
+2024-09-16 13:07:44,484 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-16 13:07:45,733 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-16 13:07:45,733 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****

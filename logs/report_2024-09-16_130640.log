@@ -1,0 +1,20 @@
+2024-09-16 13:06:41,250 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:06:44,297 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:06:44,297 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:06:44,299 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:06:44,300 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:06:45,688 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:06:45,690 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:06:45,690 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:06:45,692 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:06:47,015 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:06:47,016 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:06:47,016 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:06:47,019 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:06:48,259 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:06:48,260 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:06:48,260 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200
+2024-09-16 13:06:48,262 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the user information*****
+2024-09-16 13:06:49,599 INFO  [main] apiTestCases.GetUserInfoTest -*****Getting the status code*****
+2024-09-16 13:06:49,599 INFO  [main] apiTestCases.GetUserInfoTest -*****Validating the status code*****
+2024-09-16 13:06:49,599 INFO  [main] apiTestCases.GetUserInfoTest -The response code is 200

@@ -6,7 +6,7 @@ import org.testng.annotations.DataProvider;
 
 public class DataProviders {
 
-	String path = System.getProperty("user.dir") + "/src/test/java/apiTestCases/ProgData.xlsx";
+	String path = System.getProperty("user.dir") + "/src/test/resources/ProgData.xlsx";
 	ExcelUtils XL = new ExcelUtils(path);
 
 	@DataProvider(name = "ProgData")

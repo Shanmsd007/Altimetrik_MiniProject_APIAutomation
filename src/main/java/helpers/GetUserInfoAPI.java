@@ -11,7 +11,7 @@ import utilities.ExcelUtils;
 
 public class GetUserInfoAPI {
 
-	String path = System.getProperty("user.dir") + "/src/test/java/apiTestCases/ProgData.xlsx";
+	String path = System.getProperty("user.dir") + "/src/test/resources/ProgData.xlsx";
 	ExcelUtils XL = new ExcelUtils(path);
 	static CommonUtils utils = new CommonUtils();
 	static Response UserInforesponse = null;
