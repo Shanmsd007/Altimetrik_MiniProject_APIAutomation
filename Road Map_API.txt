@@ -1,0 +1,27 @@
+-> Created one maven project with quick-start template
+-> Added all the required maven dependencies into pom.xml file
+-> Written one standalone test using rest-assured library
+-> Run the tests successfully via Java
+-> Create some basic utilities such as ExcelUtils, DataProviders, ExtentReporter, Retrylogic and TestListeners
+-> Created some helper classes which has the common code functions/Actions to achieve the basic actions/functions/Actions
+-> Created pojo classes to achieve serialization and de-serialization using getters and setters methods
+-> Added log4j into our framework to log the actions/assertions and create the logs report dynamically
+-> Converted into testNG framework by using test annotations, importing the requried testNG library and packages
+-> Created multiple testSuites depends upon the use/test cases I had written and placed as .xml files under testSuites folder
+-> Run the tests as well suites using testNG successfully
+-> Accomodated BDD framework concepts into testNG framework thus becomes hybrid framework
+-> Written cucumber feature files based on the test cases/scenarios using Gherkin language
+-> Glued with step definition class files where we copied all the actual code
+-> Created one Test runner class and integrated all the pieces such as feature files, step definition files and all other required inputs using
+cucumber options
+-> Run the tests using created testNGTestRunner class file thus BDD has been acheived
+
+
+
+Brief Summary: 
+
+ Designed one API hybrid framework in such a way that can adopt all the OOPS concepts which achieved the given use cases
+ Besides, we can add more use cases based on the scenarios that we are planning to do. 
+ Can executable using basic JAVA, testNG(via .XML test suites), BDD cucumber wrapper using runner class file, CMD prompt using maven commands, Jenkins using maven integration
+ Concepts (By creating profiles in .POM file), Local host based on jenkins server by creating a freestyle pipelines batch jobs (can schedule the jobs as well)
+ 
