@@ -1,0 +1,139 @@
+2024-09-23 17:59:17,793 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:20,699 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:20,699 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 200
+2024-09-23 17:59:20,699 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:20,701 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:21,945 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Name*****
+2024-09-23 17:59:21,946 INFO  [main] apiTestCases.ValidateUserInfoTest -Expected name value is :john 
+2024-09-23 17:59:21,946 INFO  [main] apiTestCases.ValidateUserInfoTest -Actual name value is :john 
+2024-09-23 17:59:21,947 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user's Age*****
+2024-09-23 17:59:21,947 INFO  [main] apiTestCases.ValidateUserInfoTest -Expected age value is :73
+2024-09-23 17:59:21,947 INFO  [main] apiTestCases.ValidateUserInfoTest -Actual age value is :73
+2024-09-23 17:59:21,952 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:23,430 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:23,430 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 200
+2024-09-23 17:59:23,430 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:23,431 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:24,870 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:24,884 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:26,096 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:26,096 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:26,096 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:26,102 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:27,528 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:27,533 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:28,883 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:28,883 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:28,883 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:28,884 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:30,191 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:30,197 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:31,639 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:31,639 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:31,640 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:31,640 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:32,953 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:32,967 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:34,198 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:34,199 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:34,199 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:34,199 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:35,612 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:35,613 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:36,965 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:36,965 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:36,965 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:36,966 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:38,204 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:38,207 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:39,561 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:39,561 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:39,561 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:39,562 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:40,856 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:40,858 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:41,979 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:41,979 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:41,979 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:41,980 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:43,186 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:43,196 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:44,609 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:44,609 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:44,609 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:44,610 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:45,818 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:45,822 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:47,055 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:47,055 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:47,055 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:47,055 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:48,429 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:48,432 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:49,639 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:49,640 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:49,640 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:49,640 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:50,768 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:50,773 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:51,995 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:51,995 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:51,995 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:51,996 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:53,327 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:53,333 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:54,570 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:54,570 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:54,571 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:54,571 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:55,755 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:55,760 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:57,114 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:57,114 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:57,114 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:57,115 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 17:59:58,346 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 17:59:58,351 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 17:59:59,571 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 17:59:59,572 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 17:59:59,572 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 17:59:59,573 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:00:00,737 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
+2024-09-23 18:00:00,738 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:00:02,060 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:00:02,061 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:00:02,062 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:00:02,062 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:00:03,390 INFO  [main] apiTestCases.ValidateUserInfoTest -Error in validating the user informationcom.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])com.fasterxml.jackson.databind.exc.UnrecognizedPropertyException: Unrecognized field "error" (class pojo.UserDetails), not marked as ignorable (3 known properties: "name", "count", "age"])
+ at [Source: (String)"{"error":"Request limit reached"}"; line: 1, column: 11] (through reference chain: pojo.UserDetails["error"])
