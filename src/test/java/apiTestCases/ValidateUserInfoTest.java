@@ -9,6 +9,8 @@ import org.testng.asserts.SoftAssert;
 import pojo.UserDetails;
 import utilities.DataProviders;
 
+import java.util.UUID;
+
 public class ValidateUserInfoTest {
 	SoftAssert softAssert = new SoftAssert();
 	private static final Logger logger = LogManager.getLogger(ValidateUserInfoTest.class);
@@ -35,8 +37,9 @@ public class ValidateUserInfoTest {
 			logger.info("Actual age value is :" +userDetails.getAge());
 			softAssert.assertEquals(userDetails.getAge(), Age);
 		} catch (Exception e) {
-			logger.info("Error in validating the user information" +e.getMessage() +e.getCause());
-			throw new RuntimeException(e);
+			String reqID = UUID.randomUUID().toString();
+			logger.error("Error in validating the user information. Request ID is :" +reqID);
+			throw new RuntimeException("Exception message and cause is :" +e.getMessage()+e.getCause());
 		} finally {
 			softAssert.assertAll();
 		}
