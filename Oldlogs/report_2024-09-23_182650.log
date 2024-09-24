@@ -1,0 +1,120 @@
+2024-09-23 18:26:51,795 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:26:54,641 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:26:54,642 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:26:54,642 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:26:54,651 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:26:56,146 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :94293d1c-abd1-4748-9936-dd67e0297865
+2024-09-23 18:26:56,153 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:26:57,366 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:26:57,366 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:26:57,366 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:26:57,366 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:26:58,623 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :849e998d-91b2-4535-86df-247e21dcaee5
+2024-09-23 18:26:58,631 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:26:59,803 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:26:59,803 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:26:59,803 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:26:59,804 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:00,991 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :c42852e2-f638-408d-b7eb-831f649b2c7c
+2024-09-23 18:27:00,996 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:02,287 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:02,287 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:02,288 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:02,288 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:03,500 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :9f12cc4d-a9ee-4d35-bd0c-62bfad599ad7
+2024-09-23 18:27:03,515 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:04,714 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:04,714 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:04,715 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:04,715 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:05,933 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :25c05adb-4963-44ae-bd52-1282e7701ee4
+2024-09-23 18:27:05,934 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:07,123 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:07,124 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:07,124 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:07,124 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:08,349 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :c34426ed-57e9-4758-a5c9-f109150537ab
+2024-09-23 18:27:08,353 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:09,534 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:09,535 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:09,535 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:09,535 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:10,711 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :6d8d6991-e1bf-49a7-a65e-ef0aadcf05ce
+2024-09-23 18:27:10,715 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:12,013 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:12,014 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:12,014 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:12,014 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:13,242 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :dd6e5fce-e602-4708-b8ab-b058fc68c045
+2024-09-23 18:27:13,247 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:14,496 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:14,496 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:14,496 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:14,496 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:15,736 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :4e0a71c3-ea43-474b-a5aa-3bdaa1eb727a
+2024-09-23 18:27:15,740 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:16,897 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:16,897 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:16,898 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:16,898 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:18,259 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :099a5e73-2565-4651-9fd4-4e37ed0bbce1
+2024-09-23 18:27:18,260 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:19,454 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:19,455 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:19,455 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:19,455 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:20,642 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :5c1771bf-3f37-4e04-a2a2-2be8d9076c3d
+2024-09-23 18:27:20,649 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:21,802 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:21,803 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:21,803 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:21,803 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:22,990 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :d059d404-fc16-4400-8c66-ed6b7c197d01
+2024-09-23 18:27:22,996 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:24,242 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:24,242 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:24,242 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:24,243 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:25,402 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :79937efc-f8a7-4b7f-a1b8-f499afdca911
+2024-09-23 18:27:25,405 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:26,552 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:26,552 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:26,553 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:26,553 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:27,788 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :c5e4b371-c4fd-4ffc-93e4-860abe6e4b6c
+2024-09-23 18:27:27,792 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:29,121 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:29,122 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:29,122 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:29,123 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:30,382 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :491400c1-7144-48bc-b93d-3e9db639a07e
+2024-09-23 18:27:30,383 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:31,668 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:31,669 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:31,669 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:31,669 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:32,882 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :bb66f671-8a08-43e8-b385-390f6fe51c69
+2024-09-23 18:27:32,888 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:34,168 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:34,168 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:34,169 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:34,169 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:35,287 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :c42c9ee1-9a1a-409a-81ba-6868dcc97431
+2024-09-23 18:27:35,291 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:36,611 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:36,612 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:36,612 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:36,612 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:37,748 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :3782a233-dcdb-4bce-8f25-af2d47499c74
+2024-09-23 18:27:37,749 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:39,091 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:39,091 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:39,091 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:39,092 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:40,287 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :5204084c-ab6b-466f-a954-7692891989a6
+2024-09-23 18:27:40,291 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the user information*****
+2024-09-23 18:27:41,604 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Getting the status code*****
+2024-09-23 18:27:41,604 INFO  [main] apiTestCases.ValidateUserInfoTest -The response code is 429
+2024-09-23 18:27:41,604 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the status code*****
+2024-09-23 18:27:41,605 INFO  [main] apiTestCases.ValidateUserInfoTest -*****Validating the user information*****
+2024-09-23 18:27:42,962 ERROR [main] apiTestCases.ValidateUserInfoTest -Error in validating the user information. Request ID is :a6d09e3f-366a-4f33-840c-40bc0da97bca

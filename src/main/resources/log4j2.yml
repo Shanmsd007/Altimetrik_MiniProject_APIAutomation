@@ -6,18 +6,44 @@ Configuration:
       name: Console
       target: SYSTEM_OUT
       PatternLayout:
-        pattern: "%d %-5p [%t] %c -%m%n"
-    File:
-      name: Mainlog
+        pattern: "[%d] [%-5p] [%t] %c -%m%n"
+    #    File:
+    #      name: Mainlog
+    #      fileName: "logs/report_${date:yyyy-MM-dd_HHmmss}.log"
+    #      immediateFlush: true
+    #      PatternLayout:
+    #        pattern: "%d %-5p [%t] %c -%m%n"
+    RollingFile:
+      name: RollingFile
       fileName: "logs/report_${date:yyyy-MM-dd_HHmmss}.log"
       immediateFlush: true
+      filePattern: "logs/$${date:yyyy-MM}/report_%d{MM-dd-yyyy}-%i.log.gz"
       PatternLayout:
-        pattern: "%d %-5p [%t] %c -%m%n"
+        pattern: "[%d] [%-5p] [%t] %c -%m%n"
+      Policies:
+        SizeBasedTriggeringPolicy:
+          size: "10 MB"
+      DefaultRollOverStrategy:
+        Delete:
+          basePath: "logs/"
+          maxDepth: 2
+          IfFileName:
+            glob: "*/report_*.log"
+          IfLastModified:
+            age: 1d
+        max: 10
+    Async:
+      name: MainLogAsync
+      AppenderRef:
+        - ref: Console
+        - ref: RollingFile
   Loggers:
     Root:
       level: info
       AppenderRef:
         - ref: Console
           level: info
-        - ref: Mainlog
-          level: info
+        #        - ref: Mainlog
+        #          level: info
+        - ref: RollingFile
+          level: all
